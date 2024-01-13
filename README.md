@@ -5,8 +5,8 @@ This project aims to collect and analyze news articles from etnews.com.
 It utilizes web scraping techniques to extract relevant information such as headlines, article text, publication date, and author details.
 
 **Key Features :**
-Web Scraping: Utilizes BeautifulSoup for efficient and targeted web scraping.
-Data Extraction: Gathers information on news heading, news description, category of news. Category is extraction from same website.
+Web Scraping: Utilizes BeautifulSoup for efficient and targeted web scraping. 
+Data Extraction: Gathers information on news heading, news description, category of news. Category is extraction from same website. 
 Data Storage: Saves the scraped data in CSV structured format named Na_data.csv
 
 **Getting Started :**
